@@ -36,5 +36,5 @@
 </table>
 
 <video>
-  <source src="meme.webm" type="video/webm">
+  <source src="https://github.com/parazyd/parazyd/raw/refs/heads/master/meme.webm" type="video/webm">
 </video>
